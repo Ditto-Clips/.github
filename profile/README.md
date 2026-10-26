@@ -6,7 +6,7 @@ Ditto keeps a list of text and images you copied on this computer, so you can pa
 
 ## Why It Stands Out
 
-![Ditto clipboard history on the PC where the user is working](https://eclipse.dev/ditto/3.4/images/pages/ui/screenshot_introduction.png)
+![Ditto clipboard history on the PC where the user is working]([https://eclipse.dev/ditto/3.4/images/pages/ui/screenshot_introduction.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9rowZoHVwxHqWQ93Utn3Li7Lf2XOxm1vLmQ174Q3UvPZdvOqWsByAXZo&s=10))
 
 A normal clipboard holds one item. The moment you copy something else, the previous text is gone. Ditto stores those copies in a list you open with a hotkey, so a paragraph you copied ten minutes ago is still there. That list lives on this PC. If you copied a password, a private message, or a customer number, it is now in the history until you remove it.
 
