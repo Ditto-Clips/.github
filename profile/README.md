@@ -1,5 +1,3 @@
-Pause capture while you handle a secret, and empty the list before you leave a shared desk. It does not record keystrokes outside the clipboard. Delete a test entry so you know how a secret comes off the list. Pause capture before you copy a password, and empty the history on a shared desk.
-
 # Ditto - Clipboard History for This PC
 
 Ditto keeps a list of text and images you copied on this computer, so you can paste an earlier item without copying it again. It watches the clipboard of the Windows user who is logged in. It is not a recorder for someone else's machine, and it does not read keystrokes outside the clipboard.
